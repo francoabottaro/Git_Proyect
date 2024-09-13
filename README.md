@@ -1,4 +1,17 @@
-<center><img src="./README.svg" /></center>
+<div align="center">
+  <img src="./README.svg"/>
+</div>
+
+<style>
+ #back-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 90%;
+  border-radius: 1em;
+ } 
+</style>
 
 # Estructura Básica para un Proyecto de Express
 
