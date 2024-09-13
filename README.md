@@ -2,17 +2,6 @@
   <img src="./README.svg"/>
 </div>
 
-<style>
- #back-img{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: white;
-  width: 90%;
-  border-radius: 1em;
- } 
-</style>
-
 # Estructura Básica para un Proyecto de Express
 
 Este proyecto es una plantilla inicial para aplicaciones web con Express en Node.js. Utiliza JavaScript y está configurado para facilitar un inicio rápido y eficiente. Incluye validación de variables de entorno con Joi, gestión de configuraciones a través de un archivo .env, y un logger personalizado para registrar errores y actividades.
