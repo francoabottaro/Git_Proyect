@@ -1,4 +1,6 @@
-<center><img src="./README.svg" /></center>
+<div align="center">
+  <img src="./README.svg"/>
+</div>
 
 # Estructura Básica para un Proyecto de Express
 
