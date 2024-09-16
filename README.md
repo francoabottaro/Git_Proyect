@@ -21,3 +21,7 @@ Esta plantilla te permite comenzar rápidamente con una base sólida y bien orga
 - Crea la estructura de carpetas para **rutas** y **controladores**.
 - Inicializa un repositorio **Git** y configura un archivo **.gitignore**.
 - Preconfigura **Prettier** y **ESLint** para asegurar un formato de código y estilo consistente.
+
+## Ejecutar
+- Para entrar al modo desarrollo `npm run dev`
+- Comando para la produccion `npm start`
